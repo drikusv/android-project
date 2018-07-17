@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">android-project</string>
+
+    <string name="Invalid_Password">Invalid password</string>
+    <string name="Invalid_Email">Invalid Email</string>
+    <string name="Field_require">Field require</string>
+
+
+    <string name="UserName">drikus.bitcube.tech.android_project.Name</string>
+    <string name="Password">drikus.bitcube.tech.android_project.Password</string>
+    <string name="Key">drikus.bitcube.tech.android_project.Key</string>
+    <string name="Stored">drikus.bitcube.tech.android_project.Stored</string>
+
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
